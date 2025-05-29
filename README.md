@@ -1,18 +1,18 @@
 1. Configure Database Connection
-  Before running the application, you must update the database connection details in the App.config file.
-
-  Locate and Edit <connectionStrings> Block
-  Open the App.config file and find the following block:
-  <connectionStrings>
-    <add name="connStr" connectionString="server=.;uid=sa;pwd=123456;database=PetTradeDB" providerName="System.Data.SqlClient"/>
-  </connectionStrings>
-  server: Specify your SQL Server instance name (e.g., localhost, .\SQLEXPRESS, 127.0.0.1, etc.)
-  
-  uid: Your SQL Server username
-  
-  pwd: Your SQL Server password
-
-  database: Ensure this matches the actual database name (e.g., PetTradeDB)
+            Before running the application, you must update the database connection details in the App.config file.
+          
+            Locate and Edit <connectionStrings> Block
+            Open the App.config file and find the following block:
+            <connectionStrings>
+              <add name="connStr" connectionString="server=.;uid=sa;pwd=123456;database=PetTradeDB" providerName="System.Data.SqlClient"/>
+            </connectionStrings>
+            server: Specify your SQL Server instance name (e.g., localhost, .\SQLEXPRESS, 127.0.0.1, etc.)
+            
+            uid: Your SQL Server username
+            
+            pwd: Your SQL Server password
+          
+            database: Ensure this matches the actual database name (e.g., PetTradeDB)
 2. Restore or Attach the Database
   You need to recover or attach the PetTradeDB using the provided .mdf and .ldf files.
   
