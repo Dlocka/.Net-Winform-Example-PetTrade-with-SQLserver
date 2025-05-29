@@ -1,0 +1,11 @@
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\bin\Debug\PetTrade.SQLServerDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\bin\Debug\PetTrade.SQLServerDAL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\bin\Debug\PetTrade.IDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\bin\Debug\PetTrade.IDAL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\obj\Debug\PetTrade.SQLServerDAL.csprojAssemblyReference.cache
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\obj\Debug\PetTrade.SQLServerDAL.csproj.CoreCompileInputs.cache
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\obj\Debug\PetTrade.SQLServerDAL.csproj.CopyComplete
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\obj\Debug\PetTrade.SQLServerDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\obj\Debug\PetTrade.SQLServerDAL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\bin\Debug\PetTrade.Models.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.SQLServerDAL\bin\Debug\PetTrade.Models.pdb

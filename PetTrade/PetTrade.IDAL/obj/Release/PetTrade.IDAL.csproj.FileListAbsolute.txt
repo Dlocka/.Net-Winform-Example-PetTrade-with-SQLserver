@@ -1,0 +1,6 @@
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.IDAL\bin\Release\PetTrade.IDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.IDAL\bin\Release\PetTrade.IDAL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.IDAL\obj\Release\PetTrade.IDAL.csprojAssemblyReference.cache
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.IDAL\obj\Release\PetTrade.IDAL.csproj.CoreCompileInputs.cache
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.IDAL\obj\Release\PetTrade.IDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.IDAL\obj\Release\PetTrade.IDAL.pdb

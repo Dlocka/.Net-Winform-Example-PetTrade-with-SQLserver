@@ -1,0 +1,11 @@
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\bin\Debug\PetTrade.OracleDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\bin\Debug\PetTrade.OracleDAL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\bin\Debug\PetTrade.IDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\bin\Debug\PetTrade.IDAL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\obj\Debug\PetTrade.OracleDAL.csprojAssemblyReference.cache
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\obj\Debug\PetTrade.OracleDAL.csproj.CoreCompileInputs.cache
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\obj\Debug\PetTrade.OracleDAL.csproj.CopyComplete
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\obj\Debug\PetTrade.OracleDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\obj\Debug\PetTrade.OracleDAL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\bin\Debug\PetTrade.Models.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.OracleDAL\bin\Debug\PetTrade.Models.pdb

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E620210-EA4C-413B-9248-5387FBAEBC3B}|PetTrade.UI\\PetTrade.UI.csproj|D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\pettrade.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E620210-EA4C-413B-9248-5387FBAEBC3B}|PetTrade.UI\\PetTrade.UI.csproj|solutionrelative:pettrade.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E620210-EA4C-413B-9248-5387FBAEBC3B}|PetTrade.UI\\PetTrade.UI.csproj|d:\\.net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\pettrade\\pettrade\\pettrade.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E620210-EA4C-413B-9248-5387FBAEBC3B}|PetTrade.UI\\PetTrade.UI.csproj|solutionrelative:pettrade.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ACCAE5-C870-4603-9960-9CC86927AF1E}|PetTrade.SQLServerDAL\\PetTrade.SQLServerDAL.csproj|d:\\.net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\pettrade\\pettrade\\pettrade.sqlserverdal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ACCAE5-C870-4603-9960-9CC86927AF1E}|PetTrade.SQLServerDAL\\PetTrade.SQLServerDAL.csproj|solutionrelative:pettrade.sqlserverdal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52E2249-F277-437B-AA21-259A981274A7}|PetTrade.OracleDAL\\PetTrade.OracleDAL.csproj|D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\pettrade.oracledal\\petowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52E2249-F277-437B-AA21-259A981274A7}|PetTrade.OracleDAL\\PetTrade.OracleDAL.csproj|solutionrelative:pettrade.oracledal\\petowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2C61E3-1435-49F7-BA91-2D570E21F265}|PetTrade.BLL\\PetTrade.BLL.csproj|D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\pettrade.bll\\petowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2C61E3-1435-49F7-BA91-2D570E21F265}|PetTrade.BLL\\PetTrade.BLL.csproj|solutionrelative:pettrade.bll\\petowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2C61E3-1435-49F7-BA91-2D570E21F265}|PetTrade.BLL\\PetTrade.BLL.csproj|D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\pettrade.bll\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2C61E3-1435-49F7-BA91-2D570E21F265}|PetTrade.BLL\\PetTrade.BLL.csproj|solutionrelative:pettrade.bll\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.UI\\Program.cs",
+              "RelativeDocumentMoniker": "PetTrade.UI\\Program.cs",
+              "ToolTip": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.UI\\Program.cs",
+              "RelativeToolTip": "PetTrade.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:54:32.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.SQLServerDAL\\DBHelper.cs",
+              "RelativeDocumentMoniker": "PetTrade.SQLServerDAL\\DBHelper.cs",
+              "ToolTip": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.SQLServerDAL\\DBHelper.cs",
+              "RelativeToolTip": "PetTrade.SQLServerDAL\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:48:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetOwner.cs",
+              "DocumentMoniker": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.OracleDAL\\PetOwner.cs",
+              "RelativeDocumentMoniker": "PetTrade.OracleDAL\\PetOwner.cs",
+              "ToolTip": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.OracleDAL\\PetOwner.cs",
+              "RelativeToolTip": "PetTrade.OracleDAL\\PetOwner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:48:31.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetOwner.cs",
+              "DocumentMoniker": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.BLL\\PetOwner.cs",
+              "RelativeDocumentMoniker": "PetTrade.BLL\\PetOwner.cs",
+              "ToolTip": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.BLL\\PetOwner.cs",
+              "RelativeToolTip": "PetTrade.BLL\\PetOwner.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:48:03.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.BLL\\UserManager.cs",
+              "RelativeDocumentMoniker": "PetTrade.BLL\\UserManager.cs",
+              "ToolTip": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.BLL\\UserManager.cs",
+              "RelativeToolTip": "PetTrade.BLL\\UserManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:47:58.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PetTrade.UI\\LoginForm.cs",
+              "ToolTip": "D:\\.Net \u521D\u7EA7\\\u4F5C\u4E1A\u5B8C\u6210\\PetTrade\\PetTrade\\PetTrade.UI\\LoginForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "PetTrade.UI\\LoginForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:47:51.724Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

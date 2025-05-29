@@ -1,0 +1,11 @@
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\bin\Debug\PetTrade.BLL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\bin\Debug\PetTrade.BLL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\bin\Debug\PetTrade.IDAL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\bin\Debug\PetTrade.IDAL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\obj\Debug\PetTrade.BLL.csproj.CoreCompileInputs.cache
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\obj\Debug\PetTrade.BLL.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\obj\Debug\PetTrade.BLL.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\bin\Debug\PetTrade.Models.dll
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\bin\Debug\PetTrade.Models.pdb
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\obj\Debug\PetTrade.BLL.csproj.AssemblyReference.cache
+D:\.Net 初级\作业完成\PetTrade\PetTrade\PetTrade.BLL\obj\Debug\PetTrade.534F54CC.Up2Date
